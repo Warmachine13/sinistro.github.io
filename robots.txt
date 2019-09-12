@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Allow: /About
+Allow: /Portifolio
+Allow: /Contato
+Allow: /index
