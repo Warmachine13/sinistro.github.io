@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2633d0fdaed43150f364e64f74b9c5f",
+    "revision": "3813e1876a083fde3c950fa805b1a2ce",
     "url": "/sinistro.github.io/index.html"
   },
   {
-    "revision": "feabb73807179a7c0ae8",
+    "revision": "becdbcb9e31488c6641a",
     "url": "/sinistro.github.io/static/css/main.04a61e8c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sinistro.github.io/static/js/2.a7445634.chunk.js"
   },
   {
-    "revision": "feabb73807179a7c0ae8",
-    "url": "/sinistro.github.io/static/js/main.64cd16f0.chunk.js"
+    "revision": "becdbcb9e31488c6641a",
+    "url": "/sinistro.github.io/static/js/main.54d4fb2b.chunk.js"
   },
   {
     "revision": "77fe5125daff2e509862",
