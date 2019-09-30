@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52177939f0a02b3dacef184852a4a1da",
+    "revision": "76e5bc718f9447db8b8f87163ae6e07c",
     "url": "/sinistro.github.io/index.html"
   },
   {
